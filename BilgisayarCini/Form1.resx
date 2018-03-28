@@ -126,7 +126,7 @@
     <value>Calibri, 16.2pt, style=Bold</value>
   </data>
   <data name="QuestionButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-3, 91</value>
+    <value>-3, 81</value>
   </data>
   <data name="QuestionButton.Size" type="System.Drawing.Size, System.Drawing">
     <value>401, 69</value>
